@@ -44,7 +44,7 @@ ba5c87e3cf3ad4fd2c116f052ad10327 fancyss_mtk_lite_3.4.0.tar.gz
 847bd4cd8f11c0ca4ffcc907101398e4 fancyss_mtk_lite_3.4.1.tar.gz
 a67695e013e6e0e8d1ac6ed522f0f8d3 fancyss_mtk_full_3.4.2.tar.gz
 64eb4b59bb3c32f4e94f9bab8480a588 fancyss_mtk_lite_3.4.2.tar.gz
-cc8fe3e5a0e277db2aa997f44e6e50a6 fancyss_mtk_full_3.4.4.tar.gz
-a0a4efbc4c85c3cddf9f484961c9b4ec fancyss_mtk_lite_3.4.4.tar.gz
 8b1617563fe3ce4ff128bd206e88b06e fancyss_mtk_full_3.4.3.tar.gz
 ada2d0c7d1d4632a55f4a121675436ca fancyss_mtk_lite_3.4.3.tar.gz
+e3d271352e6417de9d4a1205253414d2 fancyss_mtk_full_3.4.4.tar.gz
+aaf65280a0db463266129e2d4c46f069 fancyss_mtk_lite_3.4.4.tar.gz
