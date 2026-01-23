@@ -56,3 +56,5 @@ be9efe52785628e8bc497953a7b06ea8 fancyss_hnd_lite_3.4.6.tar.gz
 c6c670a7f944da9e470a538547b4b4fa fancyss_hnd_lite_3.4.7.tar.gz
 1e8427fc4c2c49ee81aab18f9d78ad53 fancyss_hnd_full_3.4.8.tar.gz
 50260522135690f5ff3f95585bcc1a88 fancyss_hnd_lite_3.4.8.tar.gz
+180354e91bcf272aff1575164d52cbcb fancyss_hnd_full_3.4.9.tar.gz
+26bffed6c54747baed11322c4b8481eb fancyss_hnd_lite_3.4.9.tar.gz
